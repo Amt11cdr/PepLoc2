@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pt
+*.pqt
+results/
+.env
