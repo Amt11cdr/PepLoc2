@@ -1,0 +1,13 @@
+{
+  "B3H7I1": {
+    "length": 78,
+    "peptides": [{"start": 65, "end": 75, "length": 11}]
+  },
+  "Q9FIW1": {
+    "length": 82,
+    "peptides": [
+      {"start": 37, "end": 51, "length": 15},
+      {"start": 61, "end": 68, "length": 8}
+    ]
+  }
+}
